@@ -43,7 +43,6 @@ As AI continues to evolve, the future points to an era of **alien-like technolog
 AI’s evolution is a journey toward an unknown future, one that promises to reshape how we work, live, and interact with technology. From rule-based systems to autonomous AI, we are stepping into an age where technology starts to feel otherworldly, almost alien.
 `;
 
-
 const Blog = () => {
   return (
     <div className="blog-container">
