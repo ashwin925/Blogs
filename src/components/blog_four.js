@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
-import '../pages/home'; // Ensure this import is relevant
+import '../pages/home';
 
 const blogContent = `
 # Self Improvement: The Journey to Becoming Your Best Self

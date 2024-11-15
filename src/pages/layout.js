@@ -1,6 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
 import { useState } from 'react';
-import Footer from '../components/footer'; 
 
 const Layout = ({ children }) => {
   const location = useLocation(); // Get the current route
