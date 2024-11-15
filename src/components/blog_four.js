@@ -39,15 +39,14 @@ Being around positive influences can significantly impact your mindset. Engage w
 
 - **Join communities**: Find groups that align with your goals and values. A supportive environment can enhance your motivation and keep you accountable.
 
-
-
 ### Practice Self-Compassion
 Be kind to yourself throughout your self-improvement journey. Understand that everyone has struggles, and it's okay to experience setbacks.
 
 > Self-compassion fosters resilience and helps you navigate challenges with a positive mindset, allowing you to keep moving forward.
 
 ## Conclusion
-Self-improvement is a continuous journey filled with challenges and triumphs. By embracing change, setting clear goals, and cultivating a growth mindset, you can unlock your full potential and lead a more fulfilling life. `;
+Self-improvement is a continuous journey filled with challenges and triumphs. By embracing change, setting clear goals, and cultivating a growth mindset, you can unlock your full potential and lead a more fulfilling life. 
+`;
 
 const Blog_four = () => {
   return (
